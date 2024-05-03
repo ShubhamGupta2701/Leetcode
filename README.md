@@ -33,4 +33,4 @@ Leetcode has 3 types of difficulty
   And if this condition fails (else loop) then we increment our index
   ```
 
-- Continue here
+- Continue here and add about new problems
