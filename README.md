@@ -63,4 +63,3 @@ Leetcode has 3 types of difficulty
   then we'll calculate according to it
   ```
 
-- Continue here and add about new problems
