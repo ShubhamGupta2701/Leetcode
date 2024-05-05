@@ -62,4 +62,3 @@ Leetcode has 3 types of difficulty
   and then pop when closing paranthesis comes
   then we'll calculate according to it
   ```
-
