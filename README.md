@@ -40,4 +40,13 @@ Leetcode has 3 types of difficulty
   If the current node is target and next node is tail then we can just change the value of current node to null
   ```
 
+- Delete Node in a Linked List ( Problem 237 )
+  ```
+  In this Problem, we were given a node refernece and we have to delete it
+  what we can do is, we can copy the value of next node to it
+  And we can link next to next node to its next 
+  ~ node->val = node->next->val
+  ~ node->next = node->next->next
+  ```
+
 - Continue here and add about new problems
