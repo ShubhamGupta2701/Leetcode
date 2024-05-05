@@ -33,4 +33,11 @@ Leetcode has 3 types of difficulty
   And if this condition fails (else loop) then we increment our index
   ```
 
+- Remove element from linked list ( Problem 203 )
+  ```
+  In this Problem, we have to constanly check wheather the node val is the target value which we have to delete or the next node is null value.
+  If the val of current node is equall to target and next node is not tail (empty) then we can copy the value of next node to the current one and current next is equall to next node next // node->next = node->next->next
+  If the current node is target and next node is tail then we can just change the value of current node to null
+  ```
+
 - Continue here and add about new problems
