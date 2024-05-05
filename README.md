@@ -51,6 +51,9 @@ Leetcode has 3 types of difficulty
   ~ node->next = node->next->next
   ```
 
+
+## Hard
+
 - Longest Valid Parentheses ( Problem 32 )
   ```
   In this Problem, we are given a string and we have to calculate how many valid paranthesis are present in it
