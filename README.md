@@ -49,4 +49,13 @@ Leetcode has 3 types of difficulty
   ~ node->next = node->next->next
   ```
 
+- Longest Valid Parentheses ( Problem 32 )
+  ```
+  In this Problem, we are given a string and we have to calculate how many valid paranthesis are present in it
+  what we can do is : 
+  we can first create a vector string and the push every opening paranthesis
+  and then pop when closing paranthesis comes
+  then we'll calculate according to it
+  ```
+
 - Continue here and add about new problems
