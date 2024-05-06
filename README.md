@@ -51,6 +51,14 @@ Leetcode has 3 types of difficulty
   ~ node->next = node->next->next
   ```
 
+- Remove Node from Linked List ( Problem 2487 )
+  ```
+  In this Problem, we were given node head and we have to remove all the elements whose right side is greater than themself
+  so i have used reccursion for solving it
+  once we reach to tail we compare them with each occurence
+  and at last return new node head
+  ```
+
 
 ## Hard
 
